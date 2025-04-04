@@ -1,1 +1,10 @@
 **/target/
+*.class
+*.log
+*.war
+*.jar
+*.ear
+.idea/
+*.iml
+*.iws
+*.ipr
